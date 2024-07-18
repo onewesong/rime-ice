@@ -7,6 +7,8 @@ patch:
       ascii_mode: true   # 初始爲西文模式
     com.runningwithcrayons.Alfred:
       ascii_mode: true   # 初始爲西文模式
+    com.runningwithcrayons.alfred.preferences:
+      ascii_mode: true   # 初始爲西文模式
     com.googlecode.iterm2:
       ascii_mode: true   # 初始爲西文模式
     com.microsoft.VSCode:
